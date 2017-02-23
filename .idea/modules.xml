@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CodeEval/.idea/CodeEval.iml" filepath="$PROJECT_DIR$/../CodeEval/.idea/CodeEval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MITx-6.00.1x.iml" filepath="$PROJECT_DIR$/.idea/MITx-6.00.1x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SimpleTools/.idea/SimpleTools.iml" filepath="$PROJECT_DIR$/../SimpleTools/.idea/SimpleTools.iml" />
+    </modules>
+  </component>
+</project>
